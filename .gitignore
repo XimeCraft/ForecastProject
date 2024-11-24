@@ -3,4 +3,5 @@
 Store Sales - Time-series Forecasting/data/*.csv
 
 # Ignore .DS_Store files
+.DS_Store
 **/.DS_Store
